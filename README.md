@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Utibeobongutin
 - 👀 I’m interested in being a developer
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently into data analysis software engineering
 - 💞️ I’m looking to collaborate on projects about software development
 - 📫 How to reach me utibeobongutin@mail.com
 
